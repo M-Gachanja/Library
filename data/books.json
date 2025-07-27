@@ -1,0 +1,29 @@
+[
+    {
+        "book_id": 1,
+        "title": "Kiswahili Mufti",
+        "author": "Wallah Bin Wallah",
+        "synopsis": "",
+        "available": true,
+        "borrower_id": null,
+        "due_date": null
+    },
+    {
+        "book_id": "B001",
+        "title": "Art of War",
+        "author": "Sun Tzu",
+        "synopsis": "The Art of War by Sun Tzu is a classic Chinese military treatise written over 2,500 years ago. It presents timeless principles of strategy, leadership, and warfare, emphasizing intelligence, preparation, and adaptability over brute force. Divided into 13 chapters, each focuses on a specific aspect of conflict\u2014such as planning, deception, terrain, and troop management.",
+        "available": true,
+        "borrower_id": null,
+        "due_date": null
+    },
+    {
+        "book_id": "B002",
+        "title": "My Life in Crime",
+        "author": "John Kiriamiti",
+        "synopsis": "My Life in Crime is a gripping autobiographical novel by John Kiriamiti that recounts his life as a notorious criminal in Kenya during the 1960s and 70s. Told through the eyes of the protagonist, Jack Zollo\u2014a fictional version of the author\u2014the story follows his descent from an ambitious youth into a life of theft, bank robberies, and deceit. Set against the backdrop of Nairobi\u2019s underworld, the novel captures the thrill and danger of criminal life, as well as the emotional toll it takes on his relationships, particularly with his girlfriend, Milly. Eventually, Zollo is arrested, leading to introspection and a desire for redemption. A fast-paced and raw narrative, the book offers a unique insider perspective into crime, punishment, and the struggle for personal change.",
+        "available": true,
+        "borrower_id": null,
+        "due_date": null
+    }
+]
