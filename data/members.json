@@ -3,5 +3,22 @@
         "member_id": "M001",
         "name": "Edwin",
         "borrowed_books": []
+    },
+    {
+        "member_id": "M002",
+        "name": "Jane",
+        "borrowed_books": []
+    },
+    {
+        "member_id": "M003",
+        "name": "Doe",
+        "borrowed_books": [
+            "B003"
+        ]
+    },
+    {
+        "member_id": "M004",
+        "name": "Shanice",
+        "borrowed_books": []
     }
 ]

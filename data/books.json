@@ -25,5 +25,23 @@
         "available": true,
         "borrower_id": null,
         "due_date": null
+    },
+    {
+        "book_id": "B003",
+        "title": "Pimp: The Story of my life",
+        "author": "Iceberg Slim",
+        "synopsis": "Pimp: The Story of My Life is the brutally honest, autobiographical account of Iceberg Slim (born Robert Beck), one of America\u2019s most infamous pimps. Set in the gritty streets of Chicago and other urban centers during the 1930s\u20131950s, the book delves deep into the underground world of prostitution, manipulation, and survival.\n\nWith unflinching detail, Slim chronicles his rise in the pimping game\u2014learning the psychology of control, perfecting the art of the con, and navigating a violent, exploitative lifestyle built on power and paranoia. From cold-hearted hustler to eventual self-reckoning, Slim takes readers through cycles of betrayal, addiction, incarceration, and fleeting success.\n\nMore than just a street memoir, Pimp is a dark, poetic exploration of masculinity, racism, exploitation, and redemption. It exposes the raw underside of the American dream and remains a powerful, influential work that shaped hip-hop culture and urban literature for decades to come.",
+        "available": false,
+        "borrower_id": "M003",
+        "due_date": "2025-08-11"
+    },
+    {
+        "book_id": "B004",
+        "title": "Chozi La Heri",
+        "author": "Asumpta",
+        "synopsis": "No known synopsis",
+        "available": true,
+        "borrower_id": null,
+        "due_date": null
     }
 ]
